@@ -24,3 +24,8 @@ Python log filter for ArcGIS Enterprise 10.9.1 and up.
 3. Enter a path to save the output file to, including the name of the file and extension.
    ```sh
    Output EX: "C:\Users\<user>\Desktop\outputfile.log"
+4. Enter the log levels you would like to skip.
+   ```sh
+   EX: DEBUG, VERBOSE, INFO
+   ```
+5. Run. You should see an brief output of the logs analyzed, and a new output file where the output file path was entered. 
