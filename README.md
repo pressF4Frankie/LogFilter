@@ -13,7 +13,7 @@ Python log filter for ArcGIS Enterprise 10.9.1 and up.
 ## Usage
 1. Run the script.
    ```sh
-   python logFilterV4.py
+   python EnterpriseLogFilter.py
    ```
 2. Enter the path to the directory containing the '.log' files or specify an individual '.log' file.
    ```sh
