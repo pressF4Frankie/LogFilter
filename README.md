@@ -17,7 +17,7 @@ Python log filter for ArcGIS Enterprise 10.9.1 and up.
    ```
 2. Enter the path to the directory containing the '.log' files or specify an individual '.log' file.
    ```sh
-   Diretory EX: "C:\arcgisportal\logs\<machine>\portal"
+   Directory EX: "C:\arcgisportal\logs\<machine>\portal"
    OR
    File Name EX: "C:\arcgisportal\logs\<machine>\portal\file.log"
    ```
