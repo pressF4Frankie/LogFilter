@@ -29,4 +29,4 @@ Python log filter for ArcGIS Enterprise 10.9.1 and up.
    EX: DEBUG, VERBOSE, INFO
    If you wish to include all levels in the output file: hit Enter.
    ```
-5. Run. You should see an brief output of the logs analyzed, and a new output file where the output file path was entered. 
+5. Run. You should see a brief output of the logs analyzed, and a new output file where the output file path was entered. 
